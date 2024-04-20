@@ -1,0 +1,14 @@
+path: E:/Internship/Webpage elements detection/data
+train: images/train
+val: images/val
+#test: test/images
+
+nc: 7
+names: ['BreadCrumb', 'Button', 'CheckBox', 'Input Field', 'Logo', 'Text', 'Toggle']
+
+#roboflow:
+#  workspace: image-annotate-bjnsn
+#  project: elements-detect
+#  version: 1
+#  license: CC BY 4.0
+#  url: https://universe.roboflow.com/image-annotate-bjnsn/elements-detect/dataset/1
